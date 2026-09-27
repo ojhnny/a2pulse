@@ -1,6 +1,8 @@
 # A2 Pulse - JacHacks Hackathon Finalist 
 Built with: Matin Tahmazli, Murilo Apparecido
 
+(https://preview-jac-sbx-6f80357d0d894da3999a21c2d74cfa38.jachammer.app/welcome)
+
 **Your Ann Arbor, briefed and mapped. Don't scroll it, feel it.**
 
 A2 Pulse pulls Ann Arbor’s scattered local information into one graph — U-M events,
