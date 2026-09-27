@@ -7,8 +7,7 @@ downtown venues, road closures, transit detours, and City Council items — then
 that graph into a one-minute spoken brief for your week, plus an interactive map and
 a graph explorer.
 
-Built with [Jac](https://www.jaseci.org/) for the A2Tech360 Hackathon (Local Impact
-track), University of Michigan, Sept 26–27, 2026.
+[![Watch the demo!](https://img.youtube.com/vi/RZokUQLPmc0/maxresdefault.jpg)](https://www.youtube.com/watch?v=RZokUQLPmc0)
 
 | Page | URL | What it does |
 |------|-----|----------------|
@@ -211,3 +210,5 @@ curl -X POST localhost:8000/walker/GenerateBrief \
 [Google Maps JavaScript + Roads APIs](https://developers.google.com/maps) ·
 [OpenStreetMap](https://www.openstreetmap.org) (Nominatim, OSRM) ·
 [jac-shadcn](https://ui.shadcn.com) + Tailwind
+
+Submitted through: https://devpost.com/software/a2-pulse
