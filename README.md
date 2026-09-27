@@ -8,6 +8,7 @@ downtown venues, road closures, transit detours, and City Council items — then
 that graph into a one-minute spoken brief for your week, plus an interactive map and
 a graph explorer.
 
+Watch the demo! : (https://www.youtube.com/watch?v=RZokUQLPmc0)
 [![Watch the demo!](https://img.youtube.com/vi/RZokUQLPmc0/maxresdefault.jpg)](https://www.youtube.com/watch?v=RZokUQLPmc0)
 
 | Page | URL | What it does |
