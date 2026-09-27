@@ -1,4 +1,5 @@
-# A2 Pulse
+# A2 Pulse - JacHacks Hackathon Finalist 
+Built with: Matin Tahmazli, Murilo Apparecido
 
 **Your Ann Arbor, briefed and mapped. Don't scroll it, feel it.**
 
