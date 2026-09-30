@@ -1,4 +1,4 @@
-# A2 Pulse - JacHacks Hackathon Finalist 
+# A2 Pulse 
 Built with: Matin Tahmazli, Murilo Apparecido
 
 (https://preview-jac-sbx-6f80357d0d894da3999a21c2d74cfa38.jachammer.app/welcome)
